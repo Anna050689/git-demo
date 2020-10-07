@@ -1,10 +1,14 @@
-sword and spеar
-wall of shields
-standing strong
-on their chosen battle field
+Revert "add one line to the song"
 
-Form the lines
-Shield by shield
-Side by side
-We're marching into destiny
-----------------------------------
+This reverts commit 4dccab5bf19142190cbc0080dd13fd254cb3c25f.
+I'm so sorry!
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   song.txt
+#
+

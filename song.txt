@@ -8,8 +8,7 @@ Shield by shield
 Side by side
 We're marching into destiny
 
-I decided to change this file.
-I am in feature branch.
+
 
 
 
